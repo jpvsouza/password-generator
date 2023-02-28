@@ -44,6 +44,26 @@ Inicie o servidor
 ![App Screenshot](https://raw.githubusercontent.com/jpvsouza/password-generator/e488ab2eb432c73d2689b5e5f74353cb4a0c64a1/src/screenshot.png)
 
 
+## Demonstração
+
+https://jpvsouza-password-generator.surge.sh/
+
+
+## Deploy
+
+Para fazer o deploy desse projeto rode
+
+```bash
+  npm run build
+```
+
+Depois 
+
+```bash
+  surge dist
+```
+
+
 ## Autor
 
 - [@jpvsouza](https://www.github.com/jpvsouza)
