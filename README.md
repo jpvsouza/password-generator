@@ -41,7 +41,7 @@ Inicie o servidor
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/jpvsouza/password-generator/e488ab2eb432c73d2689b5e5f74353cb4a0c64a1/src/screenshot.png)
 
 
 ## Autor
